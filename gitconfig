@@ -49,3 +49,5 @@
 [user]
 	email = adriengoux@gmail.com
 	name = adrien goux
+[pull]
+	rebase = false
